@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.home,.guest {
+    text-align: center;
+    width: 60%;
+    margin: 5rem;
+}
+
+button {
+    width: 6rem;
+}
+
+#h1,#h2,#h3,#g1,#g2,#g3 {
+    margin: 0.25rem;
+    width: 2rem;
+    padding-left: 0.25rem;
+    padding-right: 0.5rem;
+    display: inline;
+}
+
+#rs {
+    text-align: center;
+}
+
